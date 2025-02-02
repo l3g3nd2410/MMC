@@ -5,7 +5,7 @@
 This mod was created to change map ingame to a modded one by creating a vote for it
 
 ## Features :
-- The mod will display in the list the modded maps that the user has downloaded (mod.io and steam workshop)
+- The mod will display in the map list : the modded maps that the user has downloaded (mod.io and steam workshop)
 - Choose a modded map / create a vote to change map
 	
 ## NOTE :
