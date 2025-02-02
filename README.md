@@ -19,7 +19,7 @@ This mod was created to change map ingame to a modded one by creating a vote for
 ### KSL 
 **Install** the latest release version of [KSL](https://github.com/trbflxr/ksl/releases) 
 (Place it in the root folder of the game)
-### Livery Tool 
+### MMC 
 **Install** the latest release version of [MMC](https://github.com/l3g3nd2410/MMC/releases). (Place **MMC.ksm** in the root folder of the game along the path: **kino\mods**)
 
 ## Support :
