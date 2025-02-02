@@ -13,6 +13,7 @@ This mod was created to change map ingame to a modded one by creating a vote for
 - You must be in a mp room to create a vote, but you can refresh the map list from the garage
 - If you launch the game and the map list is empty, simply refresh the list as the maps take some time to be loaded by the game
 - If you install a map from mod.io or steam workshop, just refresh the list and it will be added to the mod
+- If you change map, and someone on the server doesn't have the modded map this player will stay on the old map
 
 ## INSTALL :
 
