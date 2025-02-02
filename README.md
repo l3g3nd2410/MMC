@@ -1,6 +1,6 @@
 # Modded Map Changer | 1.0.0
 
-![MMC-logo]([https://github.com/user-attachments/assets/f6402b2e-7fd8-4edf-93fc-ef2a7606586a](https://github.com/user-attachments/assets/e67c4824-62c2-4a82-9144-9e4e973634e1))
+![MMC-logo](https://github.com/user-attachments/assets/e67c4824-62c2-4a82-9144-9e4e973634e1)
 
 ## Description :
 
