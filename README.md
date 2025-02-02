@@ -1,7 +1,5 @@
 # Modded Map Changer | 1.0.0
-
 ![MMC-logo](https://github.com/user-attachments/assets/e67c4824-62c2-4a82-9144-9e4e973634e1)
-
 ## Description :
 
 This mod was created to change map ingame to a modded one by creating a vote for it
